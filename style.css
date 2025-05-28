@@ -32,7 +32,7 @@ html, body {
   height: 100%;
   background-image: url('Assets/bg_image.jpg'); /* Replace with your image path */
   background-size: cover;                         /* Ensures the image covers the area */
-  background-position: center;                    /* Centers the image */
+  background-position: center;                    /* made by ej */
   background-repeat: no-repeat;                   /* Prevents the image from repeating */
   z-index: -1;                                    /* Keeps the image behind other elements */
 }
